@@ -25,7 +25,7 @@ tags: []             # optional, e.g. [CSE, 算法]
    - `随想` — personal thoughts, opinions; write directly
 3. **Fill front matter** (title, date, categories required)
 4. **Write body** in Markdown below the `---`
-5. **Add images**: save to `_posts/assets/`, reference as `/assets/filename.png`
+5. **Add images**: save to `assets/`, reference as `/assets/filename.png`
 6. **Done** — push to `main` and it's live
 
 ---
@@ -35,6 +35,6 @@ tags: []             # optional, e.g. [CSE, 算法]
 | Item | Where |
 |------|-------|
 | Post file | `_posts/YYYY-MM-DD-title.md` |
-| Images | `_posts/assets/` |
+| Images | `assets/` |
 | PDFs | `_posts/` (not gitignored here) |
 | Categories | `笔记` (notes) or `随想` (thoughts) |
